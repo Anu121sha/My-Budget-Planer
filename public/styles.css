@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.alert-secondary {
+  background-color: grey;
+}
+.alert-success {
+  background-color: rgb(144, 238, 180);
+}
+.alert-primary {
+  background-color: lightslategray;
+}
+.btn1 {
+  float: right;
+}
